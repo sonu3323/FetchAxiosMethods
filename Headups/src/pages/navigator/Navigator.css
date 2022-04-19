@@ -1,0 +1,61 @@
+.bg-Dark{
+    background: #573AC3 !important;
+}
+.iconBgColor{
+    color: #C5B6FB;
+}
+.nav-link:hover {
+    background: #4B30AF !important;
+border-radius: 8px !important;
+}
+.nav-link:hover .iconBgColor{
+    color: #FFFFFF !important;
+}
+.nav-link .fa {
+    transition: all 1s
+}
+.nav-link:hover .fa {
+    transform: rotate(360deg)
+}
+.logout {
+    padding: 8px 0px 8px 35px !important;
+}
+.emailId {
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 150%;
+        padding: 1px -1px 10px 14px;
+        margin: -10px 18px 16px -3px;
+}
+.bg-avatar {
+    background-color: #4B30AF !important;
+}
+.arrow{
+    margin-left: 125px;
+}
+.nav-item .active{
+        background: #4B30AF !important;
+        border-radius: 8px !important;
+}
+.sub-menu {
+    display: flex;
+    flex-direction: column;
+    padding-left: 25px !important;
+}
+li.nav-item a.sub-menu-parent {
+    display: flex;
+    justify-content: space-between;
+}
+li.nav-item a.sub-menu-parent span.text-sm-end .arrow {
+    margin-left: 0;
+}
+li.nav-item a.sub-menu-parent span.text-sm-end {
+    width: 20px;
+}
+li.nav-item .sub-menu {
+    list-style: none;
+    cursor: pointer;
+}
+ul.nav.nav-pills.flex-column.mb-auto {
+    gap: 10px;
+}

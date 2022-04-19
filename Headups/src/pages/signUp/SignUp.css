@@ -1,0 +1,50 @@
+.signUpCardsHeading{
+    margin: 0px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #8A8B8C;
+    font-style: normal;
+} 
+.signUpCardsHeadingValue{
+    font-size: 14px;
+    line-height: 150%;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.1px;
+    color: #47484A;
+} 
+.signUpCardsOutlayer{
+    padding: 6px;
+} 
+/* .signUpHeading{
+    margin: 70px 0px 0px 0px !important;
+}
+.signUpContent{
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
+
+.createYourAccount{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.1px;
+    color: #47484A;
+}
+.termsAndConditions{
+    width: 410px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+
+.forgotPassword{
+    color: #573AC3;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+} */

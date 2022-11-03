@@ -1,3 +1,6 @@
+
+ADD THE TOASTCONTAINER IN THE ROOT COMPONENT ******
+
 import React from "react";
 import { toast } from "react-toastify";
 
